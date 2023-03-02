@@ -15,3 +15,5 @@ and another one try
 
 
 ![todostudy](https://user-images.githubusercontent.com/121923125/222390288-b4770e5c-ab4e-4271-955d-e95a9d4018c7.PNG)
+
+You can also delete list items cleek the checkbox. then you shold see delete items of your list. 
